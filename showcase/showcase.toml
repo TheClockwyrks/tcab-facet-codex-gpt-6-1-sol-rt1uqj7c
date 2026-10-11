@@ -1,0 +1,15 @@
+[[media]]
+file = "pressure.json.gz"
+name = "Pressure tears through the bench"
+
+[[media]]
+file = "board.png"
+name = "Seven stones on a brass bench"
+
+[[media]]
+file = "title.png"
+name = "Pressure finds the flaw"
+
+[[media]]
+file = "howto.png"
+name = "The art of pressure"
